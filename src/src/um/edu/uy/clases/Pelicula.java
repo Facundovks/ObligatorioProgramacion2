@@ -1,3 +1,5 @@
+package um.edu.uy.clases;
+
 public class Pelicula {
 
     private int id;
